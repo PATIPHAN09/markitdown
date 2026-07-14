@@ -1,4 +1,6 @@
-# MarkItDown
+cd c:\Users\m\Desktop\markitdown
+pip install -e "packages/markitdown[all]"cd c:\Users\m\Desktop\markitdown
+pip install -e "packages/markitdown[all]"# MarkItDown
 
 [![PyPI](https://img.shields.io/pypi/v/markitdown.svg)](https://pypi.org/project/markitdown/)
 ![PyPI - Downloads](https://img.shields.io/pypi/dd/markitdown)
